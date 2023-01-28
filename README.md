@@ -4,7 +4,7 @@
 <h3 align="left">I am a frontend and a bit of a backend developer from Russia. I am actively developing, learning new things, taking advanced training courses.</h3>
 <img align="left" alt="Coding" width="400" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madsquirrelf" alt="madsquirrelf" /></a> </p>
+
 
 - 🔭 I’m currently working on [Invest-trade.biz](https://invest-trade-frontend.vercel.app/)
 
@@ -22,6 +22,8 @@
 
 - ⚡ Fun fact **I think i am funny**
 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/zloy_karapuzik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zloy_karapuzik" height="30" width="40" /></a>
@@ -37,6 +39,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madsquirrelf&show_icons=true&locale=en" alt="madsquirrelf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madsquirrelf&" alt="madsquirrelf" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madsquirrelf" alt="madsquirrelf" /></a> </p>
 
 
 
